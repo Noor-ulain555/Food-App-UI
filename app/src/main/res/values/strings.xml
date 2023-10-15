@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">food App</string>
+    <string name="next">Next</string>
+    <string name="footnote">D𝚎𝚜𝚒𝚐𝚗 𝚋𝚢 \n 𝙽𝚘𝚘𝚛 𝚄𝚕 𝙰𝚒𝚗</string>
+    <string name="imglogo">image\n</string>
+    <string name="Appname">𝓒𝓸𝓶𝓲𝓭𝓪 طعام</string>
+    <string name="textdeliver">𝓓𝓮𝓵𝓲𝓬𝓲𝓸𝓾𝓼 𝓯𝓸𝓸𝓭 𝓭𝓮𝓵𝓲𝓿𝓮𝓻𝔂</string>
+    <string name="account">Already Have An Account ?</string>
+    <string name="imge2">korean</string>
+    <string name="newa">Don\'t Have Account ?</string>
+    <string name="facebook">Facebook</string>
+    <string name="email">Email</string>
+    <string name="password">password</string>
+    <string name="logintitle">Login to Your Account</string>
+    <string name="or">or</string>
+    <string name="continue_with">Continue With</string>
+    <string name="google">Google</string>
+    <string name="login">Login</string>
+    <string name="sign_up_here">Sign Up Here</string>
+    <string name="sign_up_with">Sign Up With</string>
+    <string name="userName">Name</string>
+    <string name="register">Crseate Account</string>
+    <string name="choose_your_location">Choose your Location</string>
+    <string name="listoflocation">Choose Location</string>
+    <string name="choose_your_way">Choose Your Way</string>
+    <string name="description">Select your delivery location effortlessly with our intuitive interface. Whether you\'re at home, work, or anywhere in between, our app makes it simple to get your favorite meals delivered hot and fresh, exactly where you want them. Enjoy the convenience of choice at your fingertips.</string>
+    <string name="move">click on</string>
+    <string name="burger">burger logo\n</string>
+    <string name="descrip">description</string>
+    <string name="name">name</string>
+    <string name="orderprice">price</string>
+    <string name="dollar">$</string>
+    <string name="image">imgfood</string>
+    <string name="text2">𝐸𝓃𝒿𝑜𝓎 𝓎𝑜𝓊𝓇 𝒻𝒶𝓋𝑜𝓊𝓇𝒾𝓉𝑒 𝓂𝑒𝒶𝓁 𝒶𝓉 𝒽𝑜𝓂𝑒\n 𝒶𝓃𝓎 𝓉𝒾𝓂𝑒</string>
+</resources>
